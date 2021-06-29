@@ -6,7 +6,7 @@ A Open-source Programming Language written in Python by testingacc333330
 
 In demo.ols, It contains stuff that the language can do. It can't do very much code but its just a example.
 
-# How to use the code
+# How to use the language
 
 First, You need to open cmd.
 
